@@ -20,7 +20,7 @@ namespace h2
                 luku = Console.ReadLine();
                 int luku1;
                 bool luku2 = int.TryParse(luku, out luku1);
-                if (luku2 != decimal ) 
+                if ( ) 
                 {
                     // kirjoitetaan levylle
                     outputFile.WriteLine(luku);
